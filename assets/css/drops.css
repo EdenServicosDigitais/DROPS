@@ -1,0 +1,34 @@
+.drops {
+    padding: 20px;
+}
+
+.drops-area{
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.drop-news{
+    margin: 10px;
+    width: 320px;
+}
+
+.drop-news img{
+    background-color: black;
+    width: 100%;
+    height: 200px;
+}
+
+.drop-news h2{
+    padding: 10px;
+    padding-left: 0;
+}
+
+.drop-news p{
+    padding: 10px;
+    padding-left: 0;
+    text-align: justify;
+}

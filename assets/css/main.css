@@ -1,0 +1,18 @@
+@import url("navbar.css");
+@import url("principal-news.css");
+@import url("drops.css");
+* {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.content {
+    align-content: center;
+    width: 50%;
+}
