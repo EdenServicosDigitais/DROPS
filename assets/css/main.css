@@ -1,18 +1,20 @@
 @import url("navbar.css");
-@import url("principal-news.css");
-@import url("drops.css");
+@import url("show.css");
+@import url("snaps.css");
+
 * {
     font-family: sans-serif;
     margin: 0;
     padding: 0;
 }
 
-.container {
+section{
     display: flex;
     justify-content: center;
 }
 
-.content {
-    align-content: center;
-    width: 50%;
+#subtitle{
+    width: 25%;
+    font-family: 'aileron', sans-serif;
+    font-style: normal;
 }

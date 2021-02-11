@@ -1,0 +1,24 @@
+.show h1 {
+    font-family: 'aileron', sans-serif;
+    font-style: normal;
+    font-size: 70pt;
+    font-weight: bold;
+}
+
+.show {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.show-content {
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.show-content img {
+    width: 50px;
+    padding: 5px;
+}

@@ -1,0 +1,63 @@
+.snaps-area {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.snaps-news {
+    width: 60%;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    flex-wrap: wrap;
+    flex-flow: wrap;
+}
+
+.snap {
+    border: 1px solid rgba(36, 36, 36, 0.213);
+    box-shadow: 1px 1px rgba(48, 48, 48, 0.248);
+    border-radius: 5px;
+    width: 600px;
+    margin: 10px;
+    padding: 20px;
+}
+
+.snap h2 {
+    padding: 10px;
+    font-size: 1.8em;
+    padding-left: 0;
+}
+
+.snap p {
+    padding: 10px;
+    padding-left: 0;
+    text-align: justify;
+    font-size: 14pt;
+    line-height: 29px;
+}
+
+.hours {
+    font-size: 12pt;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.59);
+}
+
+.font-news {
+    color: rgba(0, 0, 0, 0.94);
+    font-size: 11pt;
+    padding: 5px;
+    background-color: springgreen;
+    border-radius: 5px;
+}
+
+.snap img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+#principal{
+    padding: 5px;
+    font-size: 12pt;
+}
